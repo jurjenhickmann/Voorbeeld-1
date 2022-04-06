@@ -1,3 +1,3 @@
 # Voorbeeld-1
 
-Ik heb wat veranderd. 
+Ik heb wat veranderd.
